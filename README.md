@@ -4,4 +4,4 @@ This is the framework for an application that explores the Belly Button Biodiver
 
 Please visit the [full app here](https://bellybuttondiversityu484750.herokuapp.com/)
 
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>.
+<a href="http://www.quora.com/Adam-DAngelo"{:target="_blank"}>Quora profile link for Adam D'Angelo</a>.
